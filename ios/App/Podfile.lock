@@ -1,0 +1,46 @@
+PODS:
+  - Capacitor (7.0.1):
+    - CapacitorCordova
+  - CapacitorCordova (7.0.1)
+  - CapacitorFilesystem (7.0.0):
+    - Capacitor
+  - CapacitorLocalNotifications (7.0.0):
+    - Capacitor
+  - CapacitorStatusBar (7.0.0):
+    - Capacitor
+  - CapawesomeTeamCapacitorFileOpener (7.0.1):
+    - Capacitor
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorFilesystem (from `../../node_modules/@capacitor/filesystem`)"
+  - "CapacitorLocalNotifications (from `../../node_modules/@capacitor/local-notifications`)"
+  - "CapacitorStatusBar (from `../../node_modules/@capacitor/status-bar`)"
+  - "CapawesomeTeamCapacitorFileOpener (from `../../node_modules/@capawesome-team/capacitor-file-opener`)"
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorFilesystem:
+    :path: "../../node_modules/@capacitor/filesystem"
+  CapacitorLocalNotifications:
+    :path: "../../node_modules/@capacitor/local-notifications"
+  CapacitorStatusBar:
+    :path: "../../node_modules/@capacitor/status-bar"
+  CapawesomeTeamCapacitorFileOpener:
+    :path: "../../node_modules/@capawesome-team/capacitor-file-opener"
+
+SPEC CHECKSUMS:
+  Capacitor: 23fff43571a4d1e3ee7d67b5a3588c6e757c2913
+  CapacitorCordova: 63d476958d5022d76f197031e8b7ea3519988c64
+  CapacitorFilesystem: 2881ad012b5c8d0ffbfed1216aadfc2cca16d5b5
+  CapacitorLocalNotifications: 1270d26b56181ce081ccfab078b888c2f43d0fd0
+  CapacitorStatusBar: 438e90beeeefa8276b24e6c5991cb02dd13e51bf
+  CapawesomeTeamCapacitorFileOpener: 695c9bc2e9fef125dda9491d9bd206cff1cc93c0
+
+PODFILE CHECKSUM: f85927b241f29f9f1cc52e8cb857285ec9469dc3
+
+COCOAPODS: 1.16.2
